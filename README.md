@@ -2,7 +2,7 @@
 
 # 🖖Olá, seja bem vindo ao meu GitHub!
 
-Sou iniciante em desenvolvimento web, apesar de gostar da programação como um todo e ser fascinado em toda a estrutura de desenvolvimento, desde o back até o front dedico-me por este momento ao Front End por identificar ser o melhor para o agora. 
+Sou iniciante em desenvolvimento web, apesar de gostar da programação como um todo e ser fascinado em toda a estrutura de desenvolvimento, desde o back pra ser bem sincero, porém dedico-me por este momento ao Front End por entender ser o melhor para o meu momento profissional. 
 
 - ✍🏻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🖤 Fã da Tecnologia e Games (Um close em Valorant).
@@ -32,6 +32,6 @@ Sou iniciante em desenvolvimento web, apesar de gostar da programação como um 
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinadabeDev&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=AbinadabeDev&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinadabeDev&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=AbinadabeDev&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
