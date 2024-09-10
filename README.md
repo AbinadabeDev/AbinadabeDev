@@ -6,7 +6,7 @@ Sou iniciante em desenvolvimento web, apesar de gostar da programação como um 
 
 - ✍🏻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🖤 Fã da Tecnologia e Games (Um close em Valorant).
-- 👩🏻‍💻 Aprendendizado full focado em Front End por agora.
+- 👩🏻‍💻 Aprendendizado full focado em Back End por agora mas um aventureiro em Front.
 - 🙇🏻‍♂️ Bolsista Oracle + Alura.
 
 <div>
