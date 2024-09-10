@@ -1,6 +1,6 @@
 <img src = 'giphy.webp' width = "325px" align = "right">
 
-# 🖖Olá, seja bem vindo ao meu GitHub!
+# 🖖Opa, e ae, beleza!?
 
 Sou estudante de Engenharia de Software, apesar de ter gostado do formato e modelo Front End me identifiquei ainda mais com o Back End e por isso resolvi seguir por esse caminho. Esse é o meu protfólio e aos poucos eu irei o alimentar conforme os estudos e projetos que for contribuindo.
 
