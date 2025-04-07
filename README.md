@@ -23,20 +23,25 @@ Fique a vontade para visualizar meus projetos e até comentar melhorias (isso me
 
 <div id="badges">
   <a href="https://github.com/AbinadabeDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/abinadabedev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.instagram.com/abinadabedev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
   
-  <a href="https://twitter.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/abinadabedev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
-  
-  <a href="https://www.instagram.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+
+  <a href="https://www.threads.net/@abinadabedev" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-white?style=for-the-badge&logo=threads&logoColor=black" alt="Threads Badge"/>
   </a>
 </div>
+
 
 ---
