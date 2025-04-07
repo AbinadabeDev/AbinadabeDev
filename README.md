@@ -2,21 +2,21 @@
 
 # 🖖Opa, e ae, beleza!?
 
-Sou estudante de Engenharia de Software, apesar de ter gostado do formato e modelo Front End me identifiquei ainda mais com o Back End e por isso resolvi seguir por esse caminho. Esse é o meu protfólio e aos poucos eu irei o alimentar conforme os estudos e projetos que for contribuindo.
+Me chamo Abinadabe Oliveira e sou fã tecnologia. Sou dev backend Python e curto Java também! 
+Fique a vontade para visualizar meus projetos e até comentar melhorias (isso me ajudaria demais).
+
 
 - ✍🏻 Estudante de Engenharia de Software.
-- 🖤 Fã da Tecnologia e Games (Um close em Valorant).
-- 👩🏻‍💻 Aprendendizado full focado em Back End por agora mas um aventureiro em Front.
-- 🙇🏻‍♂️ Bolsista Oracle + Alura.
+- 👩🏻‍💻 Aprendendizado full focado em BackEnd por agora mas um aventureiro em Front.
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"//>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"//>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"//>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
 ---
