@@ -2,7 +2,8 @@
 
 # 🖖Opa, e ae, beleza!?
 
-Me chamo Abinadabe Oliveira e sou fã tecnologia. Sou dev backend Python e curto Java também! 
+Me chamo Abinadabe Oliveira e sou fã tecnologia. Sou dev backend com foco em Python e Java, além de trilhar um caminho full-stack com React no front!
+Tenho desenvolvido projetos mobile em Flutter/Dart e em outros cenários com React.
 Fique a vontade para visualizar meus projetos e até comentar melhorias (isso me ajudaria demais).
 
 
