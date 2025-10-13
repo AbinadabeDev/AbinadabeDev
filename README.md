@@ -2,13 +2,15 @@
 
 # 🖖Opa, e ae, beleza!?
 
-Me chamo Abinadabe Oliveira e sou fã tecnologia. Sou dev backend com foco em Python e Java, além de trilhar um caminho full-stack com React no front!
+Me chamo Abinadabe Oliveira, sou fã de tecnologia e desenvolvedor usando algumas stacks.
+Back-end é o meu foco, usando Python e Java, além de trilhar um caminho full-stack com React no front!
 Tenho desenvolvido projetos mobile em Flutter/Dart e em outros cenários com React.
 Fique a vontade para visualizar meus projetos e até comentar melhorias (isso me ajudaria demais).
 
 
-- ✍🏻 Estudante de Engenharia de Software.
-- 👩🏻‍💻 Aprendendizado full focado em BackEnd por agora mas um aventureiro em Front.
+- ✍🏻 Estudante de Engenharia de Software pela Uninter.
+- ✍🏻 Estudante de Análise e Desenvolvimento de Sistemas pelo Senac.
+- 👩🏻‍💻 Desenvolvimento focado em Back-End. Estudando Front-End. Entusiasta Mobile.
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"//>
@@ -31,15 +33,15 @@ Fique a vontade para visualizar meus projetos e até comentar melhorias (isso me
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.instagram.com/abinadabedev/" target="_blank">
+  <a href="https://www.instagram.com/devabinadabe/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
   
-  <a href="https://x.com/abinadabedev" target="_blank">
+  <a href="https://x.com/devabinadabe" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://www.threads.net/@abinadabedev" target="_blank">
+  <a href="https://www.threads.com/@devabinadabe" target="_blank">
     <img src="https://img.shields.io/badge/Threads-white?style=for-the-badge&logo=threads&logoColor=black" alt="Threads Badge"/>
   </a>
 </div>
