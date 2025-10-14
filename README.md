@@ -8,8 +8,8 @@ Me chamo **Abinadabe Oliveira**, sou fã de tecnologia e desenvolvedor usando al
 Meu foco é **Back-End** (Python, Java) e venho trilhando full-stack com **React**.  
 Tenho projetos mobile em **Flutter/Dart** e adoro receber feedbacks.
 
-- ✍🏻 Estudante de Engenharia de Software pela Uninter.  
-- ✍🏻 Estudante de Análise e Desenvolvimento de Sistemas pelo Senac.  
+- ✍🏻 Engenharia de Software pela Uninter.  
+- ✍🏻 Análise e Desenvolvimento de Sistemas pelo Senac.  
 - 👨🏻‍💻 Desenvolvimento focado em Back-End. Estudando Front-End. Entusiasta Mobile.
 
     </td>
