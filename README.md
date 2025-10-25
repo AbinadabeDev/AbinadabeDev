@@ -2,11 +2,11 @@
   <tr>
     <td>
 
-# 🖖 Opa, e ae, beleza!?
+# 🖖 Seja Bem Vindo(a) 🖖 
 
 Me chamo **Abinadabe Oliveira**, sou fã de tecnologia e desenvolvedor usando algumas stacks.  
-Meu foco é **Back-End** (Python, Java) e venho trilhando full-stack com **React**.  
-Tenho projetos mobile em **Flutter/Dart** e adoro receber feedbacks.
+Meu foco é **Back-End** usando Java e também Python e venho trilhando full-stack com **React**.  
+Tenho projetos mobile em **Flutter/Dart** e sou fascinado por receber feedbacks.
 
 - ✍🏻 Engenharia de Software pela Uninter.  
 - ✍🏻 Análise e Desenvolvimento de Sistemas pelo Senac.  
@@ -24,10 +24,10 @@ Tenho projetos mobile em **Flutter/Dart** e adoro receber feedbacks.
 <!-- Tecnologias -->
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
