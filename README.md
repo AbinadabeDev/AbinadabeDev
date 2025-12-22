@@ -5,12 +5,12 @@
 # 🖖 Seja Bem Vindo(a) 🖖 
 
 Me chamo **Abinadabe Oliveira**, sou fã de tecnologia e desenvolvedor usando algumas stacks.  
-Meu foco é **Back-End** usando Java e também Python e venho trilhando full-stack com **React**.  
-Tenho projetos mobile em **Flutter/Dart** e sou fascinado por receber feedbacks.
+Meu foco é **Back-End** usando Java e venho trilhando full-stack com **Angular**.  
+Tenho projetos sendo atualizados constantemente, manda seu feedback ae!
 
 - ✍🏻 Engenharia de Software pela Uninter.  
 - ✍🏻 Análise e Desenvolvimento de Sistemas pelo Senac.  
-- 👨🏻‍💻 Desenvolvimento focado em Back-End. Estudando Front-End. Entusiasta Mobile.
+- 👨🏻‍💻 Desenvolvedor Java Back-End. Aprimorando Angular.
 
     </td>
     <td valign="bottom" align="right">
