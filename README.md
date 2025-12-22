@@ -5,8 +5,8 @@
 # 🖖 Seja Bem Vindo(a) 🖖 
 
 Me chamo **Abinadabe Oliveira**, sou fã de tecnologia e desenvolvedor usando algumas stacks.  
-Meu foco é **Back-End** usando Java e venho trilhando full-stack com **Angular**.  
-Tenho projetos sendo atualizados constantemente, manda seu feedback ae!
+Meu foco é **Back-End** usando Java e venho aprimorando meu **Angular**.  
+Tenho projetos sendo atualizados constantemente, manda seu feedback!
 
 - ✍🏻 Engenharia de Software pela Uninter.  
 - ✍🏻 Análise e Desenvolvimento de Sistemas pelo Senac.  
